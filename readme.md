@@ -69,7 +69,7 @@ Este programa foi desenvolvido para praticar os seguintes conceitos de programa�
 
 10. Parabéns! Você concluiu a execução do programa.
 
-<p align="right"><a href="#readme">🔝 Voltar ao topo</a></p
+<p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
 
 ## Requisitos do sistema
 
@@ -88,7 +88,7 @@ Certifique-se de ter esses requisitos atendidos antes de tentar compilar e execu
 100% dos requisitos funcionais foram implementados. O programa está pronto para uso e pode ser executado sem problemas.
 Porém, no futuro podem ser feitas melhorias como uma opção para o usuário escolher quantas vezes deseja apostar, ou uma opção para o usuário escolher se vai jogar novamente na mesma modalidade ou em outra(voltar para o menu inicial). Melhorias como a implementação de uma interface gráfica também podem ser feitas, para tornar o programa mais amigável ao usuário.
 
-<p align="right"><a href="#readme">🔝 Voltar ao topo</a></p
+<p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
 
 ## Autor
 
