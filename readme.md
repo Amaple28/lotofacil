@@ -92,14 +92,10 @@ Porém, no futuro podem ser feitas melhorias como uma opção para o usuário es
 
 ## Autor
 
-<a href="https://github.com/amaple28">
-  <img src="https://avatars.githubusercontent.com/u/108960742" width="100px" alt="Maisa Rodrigues"/>
-  <a href="https://www.linkedin.com/in/maisa-rodrigues-674a2a218/" target="_blank"> 
-</a>
 Este programa foi desenvolvido por Maisa Rodrigues. Foi criado como parte de um trabalho acadêmico para
 praticar programação em Java e explorar conceitos de desenvolvimento de software. 
 
-Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato comigo. Você pode me encontrar no GitHub ou no [LinkedIn](https://www.linkedin.com/in/maisa-rodrigues-674a2a218/).Obrigado por ler e espero que você goste do programa!
+Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato comigo. Você pode me encontrar no GitHub ou no [LinkedIn](https://www.linkedin.com/in/maisa-rodrigues-674a2a218/). Obrigado por ler e espero que você goste do programa!
  
 <p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
 ```
