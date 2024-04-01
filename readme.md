@@ -55,7 +55,7 @@ Este programa foi desenvolvido para praticar os seguintes conceitos de programa�
 4. Após compilar com sucesso, execute o programa digitando:
 
    ```bash
-   java Main
+    java Main
 
 5. O programa exibirá um menu com as opções disponíveis. 
 
@@ -98,4 +98,3 @@ praticar programação em Java e explorar conceitos de desenvolvimento de softwa
 Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato comigo. Você pode me encontrar no GitHub ou no [LinkedIn](https://www.linkedin.com/in/maisa-rodrigues-674a2a218/). Obrigado por ler e espero que você goste do programa!
  
 <p align="right"><a href="#readme">🔝 Voltar ao topo</a></p>
-```
